@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDesignTransitionerInsideDragablz", "MaterialDesignTransitionerInsideDragablz\MaterialDesignTransitionerInsideDragablz.csproj", "{4F5541E1-C791-441F-8B46-FC06D89CAB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5541E1-C791-441F-8B46-FC06D89CAB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5541E1-C791-441F-8B46-FC06D89CAB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5541E1-C791-441F-8B46-FC06D89CAB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5541E1-C791-441F-8B46-FC06D89CAB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D068EE-86DB-454C-97F2-662A7F9C607F}
+	EndGlobalSection
+EndGlobal
